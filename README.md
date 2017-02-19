@@ -41,7 +41,7 @@ _____________________________________________________
 
 ```
 
-Bay is where we transferred the rings to the water bot. 
+Bay is where we transferred the rings to the water bot. For meeting such demanding requirements we used : an Arduino Mega, 12V Lead Acid Batteries and a custom built motor driver. This was done using this site as a refernce : [H-Bridge Motor Drivers](http://www.bristolwatch.com/ele/h_bridge.htm)
 Also the remote control was done using the [MIT App Inventor](http://appinventor.mit.edu/explore/) 
 
 ### Status and content of this repo
@@ -56,19 +56,19 @@ This repository is now archived and depreciated. The SWEEP folder contains code 
 ### Pictures
     
 <p align="center">
-<img src ="/pics/l.jpg" width="40%" height="80%"/>
+<img src ="/pics/1.jpg" width="90%" height="80%"/>
 </p>
 <p align = "center">
 <i>Bots built by the Team</i>
 </p>
 <p align="center">
-<img src ="/pics/2.jpg" width="40%" height="80%"/>
+<img src ="/pics/2.jpg" width="90%" height="80%"/>
 </p>
 <p align = "center">
 <i>Bots built by the Team</i>
 </p>
 <p align="center">
-<img src ="/pics/3.jpg" width="40%" height="80%"/>
+<img src ="/pics/3.jpg" width="90%" height="80%"/>
 </p>
 <p align = "center">
 <i>Bots built by the Team</i>
@@ -78,4 +78,3 @@ This repository is now archived and depreciated. The SWEEP folder contains code 
 
 
 
-![GitHub Logo](/images/logo.pn
